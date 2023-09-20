@@ -22,4 +22,4 @@
    <a href= "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </div>
 
-![Snake animation] (https://github.com/estercarvalhovar2/estercarvalhovar2/blob/output/gitgub-contribution-grid-snake.svg)
+![snake animation](https://github.com/<estercarvalhovar>/<estercarvalho>/blob/output/github-contribution-grid-snake2.svg)
