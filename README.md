@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Ester👋
 
-👩‍💻 Estou estudando Java e banco de dados.
+👩‍💻 Estou estudando atualmente Java e banco de dados.
 
 <div>
     <a href="https://beacons.ai/estercarvalhovar">
